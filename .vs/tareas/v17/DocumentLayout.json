@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x282.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|solutionrelative:tareas\\0x282.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\holamundo-10.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|solutionrelative:tareas\\holamundo-10.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x281.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|solutionrelative:tareas\\0x281.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x286.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|solutionrelative:tareas\\0x286.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x283.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|solutionrelative:tareas\\0x283.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\tareas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|solutionrelative:tareas\\tareas.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\helloworld-input.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1450FA2F-6484-4762-973A-50DD82D501F9}|tareas\\tareas.vcxproj|solutionrelative:tareas\\helloworld-input.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,72 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "0x286.cpp",
-              "DocumentMoniker": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x286.cpp",
-              "RelativeDocumentMoniker": "tareas\\0x286.cpp",
-              "ToolTip": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x286.cpp",
-              "RelativeToolTip": "tareas\\0x286.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T23:43:10.806Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "0x283.cpp",
-              "DocumentMoniker": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x283.cpp",
-              "RelativeDocumentMoniker": "tareas\\0x283.cpp",
-              "ToolTip": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x283.cpp",
-              "RelativeToolTip": "tareas\\0x283.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T23:42:44.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "0x282.cpp",
-              "DocumentMoniker": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x282.cpp",
-              "RelativeDocumentMoniker": "tareas\\0x282.cpp",
-              "ToolTip": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x282.cpp",
-              "RelativeToolTip": "tareas\\0x282.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T23:42:04.258Z",
+              "Title": "holamundo-10.asm",
+              "DocumentMoniker": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\holamundo-10.asm",
+              "RelativeDocumentMoniker": "tareas\\holamundo-10.asm",
+              "ToolTip": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\holamundo-10.asm",
+              "RelativeToolTip": "tareas\\holamundo-10.asm",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T22:37:54.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "0x281.cpp",
-              "DocumentMoniker": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x281.cpp",
-              "RelativeDocumentMoniker": "tareas\\0x281.cpp",
-              "ToolTip": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\0x281.cpp",
-              "RelativeToolTip": "tareas\\0x281.cpp",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T23:39:34.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "tareas.cpp",
-              "DocumentMoniker": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\tareas.cpp",
-              "RelativeDocumentMoniker": "tareas\\tareas.cpp",
-              "ToolTip": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\tareas.cpp",
-              "RelativeToolTip": "tareas\\tareas.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T23:38:53.731Z",
-              "EditorCaption": ""
+              "Title": "helloworld-input.asm",
+              "DocumentMoniker": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\helloworld-input.asm",
+              "RelativeDocumentMoniker": "tareas\\helloworld-input.asm",
+              "ToolTip": "C:\\Users\\yoeri\\Documents\\Visual Studio 2022\\Proyects\\tareas\\tareas\\helloworld-input.asm",
+              "RelativeToolTip": "tareas\\helloworld-input.asm",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-24T22:36:59.653Z"
             }
           ]
         }

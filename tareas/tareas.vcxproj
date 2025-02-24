@@ -133,6 +133,18 @@
     <ClCompile Include="0x286.cpp" />
     <ClCompile Include="tareas.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="funciones.asm" />
+    <None Include="funciones2.asm" />
+    <None Include="helloworld-inc.asm" />
+    <None Include="helloworld-input.asm" />
+    <None Include="helloworld-len.asm" />
+    <None Include="helloworld-len2.asm" />
+    <None Include="helloworld-lf.asm" />
+    <None Include="holamundo-10.asm" />
+    <None Include="holamundo-args.asm" />
+    <None Include="holamundo.asm" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

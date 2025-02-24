@@ -31,4 +31,36 @@
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="holamundo.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="helloworld-len.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="helloworld-len2.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="funciones.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="helloworld-inc.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="funciones2.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="helloworld-lf.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="holamundo-args.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="helloworld-input.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+    <None Include="holamundo-10.asm">
+      <Filter>Archivos de origen</Filter>
+    </None>
+  </ItemGroup>
 </Project>
